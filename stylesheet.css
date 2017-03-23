@@ -1,0 +1,12 @@
+.card-deck__card {
+    height: 1000px;
+width: 600px;
+margin: 0 auto;
+background-color: lemonchiffon;
+top: 50%;
+left: 50%;
+margin-top: -600px;
+margin-left: -300px;
+position: absolute;
+transform-origin: 50% 130%;
+}
